@@ -1,0 +1,46 @@
+
+IA sin ML	
+  Lógica	
+    Formal	
+      Deductiva (RBR)	IA basada en el conocimiento
+			Analógica (CBR)	
+			Inductiva (KBIL)	
+    Informal	
+      Diagramas Dialécticos (DD)	
+	Ontológica	
+    Ontologías 	
+	Modelos matemáticos y estadísticos sin ML (MME~ML)	
+	Especial	
+    Basada en tareas
+		Planificadores
+	Otros
+
+IA con ML	
+  Aprendizaje supervisado (clasificación, regresión, …)	
+    DTs y RFs
+		SVM
+		Modelos gráficos (BN, HMM…)
+		RNA (SLP, DBN, RNN, CNN, GAN…)
+		Otros (AG, etc.)
+  Aprendizaje no supervisado (clustering, …)	
+    RFs
+		Modelos gráficos (BN, HMM…)	                              GAI /¬GAI
+		RNA (DBN, RNN, CNN…)	                                    GAI /¬GAI
+		Otros (AG, etc.)	                                        GAI /¬GAI
+	Aprendizaje por refuerzo	
+    Modelos gráficos (BN, HHM…)	                              GAI /¬GAI   
+		RNA (RNN, CNN, GAN, T-arch…)	                            GAI /¬GAI
+		Otros	                                                    GAI /¬GAI
+	Aprendizaje self-supervised	
+    Modelos gráficos (BN, HMM…)	                              GAI /¬GAI
+		Redes neuronales (GAN, T-arch…)	                          GAI /¬GAI
+		Otros	                                                    GAI /¬GAI
+
+IA híbrida	                                                  GAI /¬GAI
+  Causalidad-correlación	
+    Modelos causales
+	Lógica-correlación	
+    Modelos con restricciones lógicas	
+		LAAs	
+	Otros
+
