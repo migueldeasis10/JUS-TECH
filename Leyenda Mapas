@@ -35,9 +35,9 @@ El tercer nivel hace referencia a los sistemas algorítmicos, diferenciados en c
 
 El cuarto nivel hace referencia a los niveles de urgencia, diferenciados en dos clases en función de la regla de urgencia (U)=(R)⋅(T)⋅(G)⋅(V):
 
-    - Urgencia baja
+    - Urgencia baja:~ riesgos limitados en caso de seguir los tiempos institucionales en la resolución del problema
 
-    - Urgencia alta
+    - Urgencia alta:~ riesgos graves en caso de seguir los tiempos institucionales en la resolución del problema
 
 
 El quinto y último nivel se refiere a los paradigmas o grados de uso de cada sistemas de IA, cuyos valores se obtendrían en función de las combinaciones de los otros cuatro niveles o factores. Así, estos paradigmas podrán ser:
