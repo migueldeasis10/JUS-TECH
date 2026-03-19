@@ -10,6 +10,6 @@ Entre estos documentos se encuentran:
 
  -  La leyenda sobre el significado de los símbolos inscritos en los mapas (Leyenda Mapas)
 
- -  La ilustración sobre la estructura de tareas del Sector Justicia (Estructura de Tareas SJ)
+ -  La ilustración sobre la estructura de tareas del Sector Justicia (Estructura Tareas SJ)
 
  -  La ilustración sobre los tipos de problemas o casos jurídicos (Tipos Casos Jurídicos)
