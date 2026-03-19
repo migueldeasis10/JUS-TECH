@@ -2,8 +2,8 @@ Este es el repositorio de documentos citados en el libro de Asis Pulido, Miguel,
 
 Entre estos documentos se encuentran: 
 
-  El Cuadro Taxonómico de la IA
+  El Cuadro Taxonómico de la IA (Cuadro Taxonómico IA)
   
-  El MAPA JUSTECH general
+  El MAPA JUSTECH general (MAPA JUSTECH)
   
-  Los mapas particulares relativos a cada rol
+  Los mapas particulares relativos a cada rol (Mapa RA, Mapa RP, Mapa RJ)
