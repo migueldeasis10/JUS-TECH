@@ -9,3 +9,7 @@ Entre estos documentos se encuentran:
  -  Los mapas particulares relativos a cada rol (Mapa RA, Mapa RP, Mapa RJ) - Si se descargan se puede hacer zoom
 
  -  La leyenda sobre el significado de los símbolos inscritos en los mapas (Leyenda Mapas)
+
+ -  La ilustración sobre la estructura de tareas del Sector Justicia (Estructura de Tareas SJ)
+
+ -  La ilustración sobre los tipos de problemas o casos jurídicos (Tipos Casos Jurídicos)
