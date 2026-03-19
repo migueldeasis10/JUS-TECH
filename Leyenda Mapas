@@ -1,0 +1,58 @@
+La zona superior del mapa indica las tareas jurídicas del sector justicia que pertenecen a cada uno de los tres roles (administración de la AJ, partes y juzgadores) que participan en dicho sector.
+
+
+El segundo nivel hace referencia a los microsistemas jurídicos, diferenciados en función de la complejidad de los problemas a los que hacen referencia:
+
+    - M0: problemas técnicos (no jurídicos)
+
+    - M1: problemas jurídicos sencillos (microsistemas cerrados lógicamente), en los que es posible una representación lógica de la solución jurídica para todos los casos desde una interpretación literal de las normas.
+
+    - M2: problemas jurídicos medios representables (microsistemas de contexto argumentativo cerrado), en los que si bien la representación lógica de M1 no es posible, sí que se puede recurrir al ordenamiento jurídico para ordenar y jerarquizar las interpretaciones y argumentos aducibles en el caso (por ejemplo, en un modelo dialéctico de lógica informal).
+
+    - M3: conjunto de problemas jurídicos algunos sencillos, otros medios representables, otros medios no representables y otros difíciles (microsistemas mixtos).
+
+    - M4a: problemas jurídicos medios no representables y difíciles-normativos (microsistemas abiertos), cuya descripción supera el potencial de la lógica (formal o informal).
+
+    - M4b: problemas jurídicos difíciles-límite, en los que vienen problematizados principios jurídicos fundamentales.
+
+
+El tercer nivel hace referencia a los sistemas algorítmicos, diferenciados en cuatro grandes grupos:
+
+    - alg-0: sistemas algorítmicos sin IA.
+
+    - alg-1: sistemas de IA sin ML. Dentro de ellos puede diferenciarse:
+
+          - Lalg-1: sistemas lógicos (RBR, CBR, modelos dialécticos)
+          - Malg-1: modelos matemáticos o estadísticos sin ML
+
+    - alg-2: sistemas de IA con ML. Aunque no lo diferenciemos asi en el Mapa, cabría distinguir entre:
+
+          - alg-2: no generativos
+          - Galg-2: IA generativa no híbrida
+
+    - alg-3: sistemas de IA híbridos. 
+
+
+El cuarto nivel hace referencia a los niveles de urgencia, diferenciados en dos clases en función de la regla de urgencia (U)=(R)⋅(T)⋅(G)⋅(V):
+
+    - Urgencia baja
+
+    - Urgencia alta
+
+
+El quinto y último nivel se refiere a los paradigmas o grados de uso de cada sistemas de IA, cuyos valores se obtendrían en función de las combinaciones de los otros cuatro niveles o factores. Así, estos paradigmas podrán ser:
+
+    - P0: uso prohibido de la IA o lo sistemas algorítmicos
+
+    - P1: uso asistencial de la IA. Hay dos tipos:
+
+            - P1(d): uso asistencial débil, es decir, uso altamente cauteloso del sistema  
+            - P1(f): uso asistencial fuerte, es decir, uso cauteloso del sistema
+
+    - P2: automatización parcial con alertas de discrecionalidad
+
+    - P3: automatización temporal con revisión posterior
+
+    - P4: automatización total
+            
+
