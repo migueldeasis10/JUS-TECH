@@ -1,4 +1,4 @@
-Este es el repositorio de documentos citados en el libro "Técnica y justicia: los espacios de la inteligencia artificial en las tareas de resolución de conflictos".
+Este es el repositorio de documentos citados en el libro de Asis Pulido, Miguel, Técnica y justicia: los espacios de la inteligencia artificial en las tareas de resolución de conflictos, Dykinson, 2026.
 
 Entre estos documentos se encuentran: 
 
