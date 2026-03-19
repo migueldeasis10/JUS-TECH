@@ -4,6 +4,8 @@ Entre estos documentos se encuentran:
 
   El Cuadro Taxonómico de la IA (Cuadro Taxonómico IA)
   
-  El MAPA JUSTECH general (MAPA JUSTECH)
+  El MAPA JUSTECH general (MAPA JUSTECH) - Si se descarga se puede hacer zoom
   
-  Los mapas particulares relativos a cada rol (Mapa RA, Mapa RP, Mapa RJ)
+  Los mapas particulares relativos a cada rol (Mapa RA, Mapa RP, Mapa RJ) - Si se descargan se puede hacer zoom
+
+  La leyenda sobre el significado de los símbolos inscritos en los mapas (Leyenda Mapas)
